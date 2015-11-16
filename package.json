@@ -1,0 +1,30 @@
+{
+  "name": "react-starter",
+  "version": "0.0.1",
+  "description": "Skeleton for a React App",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZachStoltz/react-starter.git"
+  },
+  "author": "Zach Stoltz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachStoltz/react-starter/issues"
+  },
+  "homepage": "https://github.com/ZachStoltz/react-starter",
+  "devDependencies": {
+    "babel-core": "^5.8.33",
+    "babel-loader": "^5.3.3",
+    "eslint": "^1.8.0",
+    "eslint-plugin-react": "^3.6.3"
+  },
+  "dependencies": {
+    "react": "^0.14.1",
+    "react-dom": "^0.14.1",
+    "webpack": "^1.12.6"
+  }
+}
